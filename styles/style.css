@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(25, 25, 25);
+}
+
+.terminal {
+    font-family: 'Roboto Mono','Courier New', Courier, monospace;
+    color: rgb(10, 125, 10);
+}
